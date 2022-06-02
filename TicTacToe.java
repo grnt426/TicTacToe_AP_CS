@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TicTacToe {
 
 	Scanner scan = new Scanner(System.in);
-	final int X_M = 10; // X's mark
+	final int X_M = 10; // X's mark make some change
 	final int Y_M = 100; // Y's mark
 	final int EMPTY = 0; // What an empty space looks like
 
